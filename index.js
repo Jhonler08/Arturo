@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('I knew you were going to say "yes" <3')
+    alert('Alucinaaaa <3, no hay palabras esque soy un fuckboy y nosotros no somos frios como el Everest')
 });
 
 const noBtn = document.querySelector('#noBtn');

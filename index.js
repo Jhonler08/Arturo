@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Alucinaaaa <3, no hay palabras esque soy un fuckboy y nosotros no somos frios como el Everest')
+    alert('Alucinaaaa <3, no hay palabras romanticas, esque soy un fuckboy y nosotros somos frios como el Everest')
 });
 
 const noBtn = document.querySelector('#noBtn');
